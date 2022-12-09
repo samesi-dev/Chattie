@@ -1,4 +1,4 @@
-# howdy_do
+# Chattie
 
 A new Flutter application.
 
