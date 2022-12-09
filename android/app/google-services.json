@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768816154582",
+    "firebase_url": "https://chattie-dcf1c.firebaseio.com",
+    "project_id": "chattie-dcf1c",
+    "storage_bucket": "chattie-dcf1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768816154582:android:42910d2c617a9b82874677",
+        "android_client_info": {
+          "package_name": "com.howdy_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768816154582-2ehdh8270thvr4fhmupk4hohl920ku3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_HWUeptn4n7RU95PCIs0KgsbnFA8Exk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768816154582-2ehdh8270thvr4fhmupk4hohl920ku3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
